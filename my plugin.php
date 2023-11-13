@@ -7,4 +7,4 @@
     * Author:            Brain Sinister
     */
 
-    add_filter( 'show_admin_bar', '__return false');
+    add_filter( 'show_admin_bar', '__return_false');
